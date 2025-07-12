@@ -11,6 +11,8 @@ All the file required for tableau are attached in the git except one which is de
 
 I have attached the complete .twb file for my dashboards. I have attached a reference for the the connections are supposed to be made as well. Please refer to the Tableau_Connections.pdf
 
+Report has been attached as pdf as well.
+
 Please do let me know if you need additional information from my side.
 
 Thank you, 
